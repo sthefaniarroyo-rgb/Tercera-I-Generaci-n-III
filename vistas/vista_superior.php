@@ -11,7 +11,7 @@
    <body>
         <menu>
             <div class="menu_izquierdo">
-                <a href="./index.php">AMA SUPER BIKE CR</a>
+                <a href="./index.php"></a>
                     <img src="./img/menu2.png" alt="AMA SUPER BIKE CR">
                 </a>
             </div>
