@@ -9,20 +9,30 @@
         <title>AMA SUPER BIKE CR</title>
    </head>
    <body>
-       <menu>
-           <div class="menu_izquierdo">
-                <img src="./img/menu2.png" alt="AMA SUPER BIKE CR">
-           </div>
-           <div class="menu_derecho">
-               <a href="./Acerca de.php">Acerca de</a>
+        <menu>
+            <div class="menu_izquierdo">
+                <a href="./index.php">AMA SUPER BIKE CR</a>
+                    <img src="./img/menu2.png" alt="AMA SUPER BIKE CR">
+                </a>
+            </div>
+            <div class="menu_derecho">
+               <a href="./index.php">Acerca de</a>
                <a href="./contacto.php">Contacto</a>
                <a href="./inscripciones.php">Inscripciones</a>
                <a href="./membresia.php">Membresía</a>
                <a href="./fotos.php">Fotos</a>
                <a href="./Asesoramiento.php">Asesoramiento</a>
                <a href="./llantas.php">Llantas</a>
-           </div>
-       </menu>  
+            </div>
+
+            <div class="menu_container">   
+                <div class="hamburger_icon">
+                    <span ></span>
+                    <span ></span>
+                    <span ></span>  
+                </div>
+            </div>
+        </menu>  
          
            
         

@@ -1,3 +1,3 @@
 <?php require_once "./vistas/vista_superior.php"?>
-<h1>acerca de</h1>
+<h1>Membresía</h1>
 <?php require_once "./vistas/vista_inferior.php"?>
