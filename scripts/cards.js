@@ -6,9 +6,7 @@ const dataCards = [{
   "cta": "Ver más",
   "link": "https://www.facebook.com/amasbkcr/"
 },
-//https://scontent.fsyq8-1.fna.fbcdn.net/v/t39.30808-6/710203329_1441291574703726_2084426819707107969_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s2048x1365&_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=YULHQ3Gr0iUQ7kNvwHYtSgg&_nc_oc=AdqwVTYazFrCAkIs1D6EU9BnGSB3euBS61C2yjkTajn1FaeNb2pjxHsVXfgghCEW21w&_nc_zt=23&_nc_ht=scontent.fsyq8-1.fna&_nc_gid=J24CUYuvWEBCQumhPM7Rgw&_nc_ss=7b2a8&oh=00_Af-S4jPl-M1SfxnqYP657AYbYzZ3HppovldkteNOveNSjQ&oe=6A2F6058
-//https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/15/18/league-of-legends.jpg?w968h681
-//https://www.edsurge.com/news/2019-01-22-educators-share-how-video-games-can-help-kids-build-sel-skills
+
 {
   "title": "Fechas de campeonatos en P1 SPEEDWAY",
   "url_image": "https://scontent.fsyq8-1.fna.fbcdn.net/v/t39.30808-6/710203329_1441291574703726_2084426819707107969_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s2048x1365&_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=YULHQ3Gr0iUQ7kNvwHYtSgg&_nc_oc=AdqwVTYazFrCAkIs1D6EU9BnGSB3euBS61C2yjkTajn1FaeNb2pjxHsVXfgghCEW21w&_nc_zt=23&_nc_ht=scontent.fsyq8-1.fna&_nc_gid=J24CUYuvWEBCQumhPM7Rgw&_nc_ss=7b2a8&oh=00_Af-S4jPl-M1SfxnqYP657AYbYzZ3HppovldkteNOveNSjQ&oe=6A2F6058",
@@ -16,8 +14,7 @@ const dataCards = [{
   "cta": "Ver más",
   "link": "https://www.facebook.com/amasbkcr/"
 },
-//https://dotesports-media.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/sites/4/2019/06/20165237/tft1.png
-//https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwipq6zInbblAhUInFkKHSYwCMkQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fwhen-a-passion-for-videogames-helps-land-that-job-11551888001&psig=AOvVaw2cvigcMN-U27d5xC22PpZw&ust=1572050615969380
+
 {
   "title": "Track Day en Parque Viva",
   "url_image": "https://scontent.fsyq8-1.fna.fbcdn.net/v/t39.30808-6/701612094_1426161999550017_3654538813528641714_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s2048x1365&_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=QoDNvconMQMQ7kNvwHrzu2E&_nc_oc=AdquQaVg2gFjFRTZYl6oHY_c3T-x7jh1sNF-NIV7NNsDFzQMrr_i7fltkPhRtSMvGwk&_nc_zt=23&_nc_ht=scontent.fsyq8-1.fna&_nc_gid=hEWX65mc88foyiNgqbRwgA&_nc_ss=7b2a8&oh=00_Af-bL4gCevBYJIidljtW1H9cIm3erV_gNpr-s_qV-_KuLA&oe=6A2F6466",
@@ -25,7 +22,7 @@ const dataCards = [{
   "cta": "Ver más",
   "link": "https://www.facebook.com/amasbkcr/"
 },
-//https://d392eissrffsyf.cloudfront.net/LAN/Worlds%202015/CuartosDeFinal.jpg
+
 {
   "title": "Track day en P1 Speedway",
   "url_image": "https://scontent.fsyq8-1.fna.fbcdn.net/v/t39.30808-6/680431178_1410290527803831_2780439098681161866_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s2048x1365&_nc_cat=106&ccb=1-7&_nc_sid=f727a1&_nc_ohc=VCmQ9UlKTWEQ7kNvwHpNQeF&_nc_oc=AdqKP3uE8uqIYDOXdFWAmBTYxFoq2P2VEVBsBA8f8m7HY5L1RJTHTk2V47ywtB9IKOg&_nc_zt=23&_nc_ht=scontent.fsyq8-1.fna&_nc_gid=vrpv5nSqSG98BAoQB71VIg&_nc_ss=7b2a8&oh=00_Af8Aq8Y-0H9lkk_unDsRz9fLaS3nUN-hEwH8jQJXHomoZg&oe=6A2F6923",
@@ -33,7 +30,7 @@ const dataCards = [{
   "cta": "Ver más",
   "link": "https://www.facebook.com/amasbkcr/"
 },
-//https://esports.eldesmarque.com/wp-content/uploads/2019/09/Sin-t%C3%ADtadsfaulo.jpg
+
 {
   "title": "Pilotos internacionales en Parque Viva",
   "url_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh54ovFQoit0EZf1J_zIW-OVzREYDzjIwVZb5ByXPH39n7L0dXY3lJFn-ATONX4T8wTriUyJi-91mFnhucGlzJHcp9FPbQubj7y6Eu_wcbDMGx_mEBsb76BsvSaOBtBDE55nw_Z21BM0U6_t-jNdmUpJn0aBjg6puwlQ5ynMin8-2daUo8-QXwiAm9BLsTs/s2048/RBC_8895.jpg",
@@ -41,7 +38,7 @@ const dataCards = [{
   "cta": "Ver más",
   "link": "https://www.facebook.com/amasbkcr/"
 },
-//https://bolavip.com/export/sites/bolavip/img/2019/01/23/image_2.png_1056961943.png
+
 {
   "title": "Ama Woman",
   "url_image": "https://scontent.fsyq8-1.fna.fbcdn.net/v/t39.30808-6/711686452_1441275794705304_6549452977470143247_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s2048x1365&_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=4O4C7ltD3zYQ7kNvwE_xuzi&_nc_oc=AdpaSNVBkVs59g7trhWUgO_58W8Mvj-Q86Gr1H9zIBo8U7an4rj2J34KpiYP7NZUvRs&_nc_zt=23&_nc_ht=scontent.fsyq8-1.fna&_nc_gid=Pg6X_khmPtol_IZ8-WhVLA&_nc_ss=7b2a8&oh=00_Af8pL1Y4ljhRwYP_TA4Q_jRA9rOfFC6KMlesoDChCRRCfA&oe=6A2F6095",

@@ -1,19 +1,19 @@
 console.log('Cargando Accordion...');
 const dataAccordion = [{
-  "title": "¿Qué son los Deportes Electrónicos?",
-  "desc": "Son deportes electrónicos, que se pueden practicar desde una PC o Consola de Videojuegos."
+  "title": "AMA Super Bike Costa Rica (AMA SBK CR)",
+  "desc": "Es uno de los campeonatos de motovelocidad más importantes del país. Reúne a pilotos nacionales e internacionales en competencias de distintas categorías y se ha convertido en una plataforma para el desarrollo del motociclismo deportivo costarricense."
 },
 {
-  "title": "¿Qué se necesita para formar parte de un equipo de E-Sports?",
-  "desc": "Se necesita una PC o una Consola, además de mucha dedicación y esfuerzo."
+  "title": "Participación internacional",
+  "desc": "Los campeonatos han contado con la presencia de pilotos internacionales como Stefano Mesa, Brandon Paasch y Guillermo Casas, elevando el nivel competitivo y ofreciendo un espectáculo de gran calidad para los aficionados.",
 },
 {
-  "title": "¿Son los E-Sports reconocidos como un deporte real?",
-  "desc": "El debate sobre si son deporte siempre genera polémica, pero los expertos lo tienen claro, lo son. Gobiernos como el estadounidense o el alemán reconocen a los jugadores profesionales de videojuegos como atletas y el Comité Olímpico Coreano ha concedido el rango de deporte olímpico a los esports."
+  "title": "Temporada 2026",
+  "desc": "La temporada 2026 está compuesta por ocho fechas distribuidas entre febrero y noviembre, consolidando a AMA Super Bike como uno de los principales certámenes de velocidad en Centroamérica."
 },
 {
-  "title": "¿Desde cuándo existen los E-Sports?",
-  "desc": "Los esports existen desde hace tiempo, pero es en la actualidad cuando están viviendo su mejor momento en términos de notoriedad, inversión y seguidores, gracias también a la expansión de internet y las nuevas tecnologías y plataformas. Lo que en un principio eran torneos minoritarios o locales, en los últimos tiempos se ha convertido en un fenómeno en el que no solo los jugadores profesionales están implicados, sino también los millones de fans de los videojuegos y la competición que lo siguen desde sus casas o llenan estadios de todo el mundo, desde Seúl hasta Berlín, pasando por Nueva York o Madrid."
+  "title": "AMA Woman",
+  "desc": "La categoría AMA Woman ha impulsado la participación femenina en la motovelocidad costarricense, brindando un espacio competitivo para las pilotos y promoviendo el crecimiento del deporte entre las mujeres."
 }];
 
 

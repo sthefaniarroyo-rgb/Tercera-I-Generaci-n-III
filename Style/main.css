@@ -6,29 +6,30 @@
 menu {
    display: flex;
    flex-direction: row;
-   height: 200px;
-   background-color: #000000;
+   height: 240px;
+   background-color: #02008e;
 
 }
 
 
 
 .menu_izquierdo {
-   background-color: #c20101f5;
-   width: 25%;
+   background-color: #e10000;
+   width: 35%;
    display: flex; 
    flex-direction: row;
    justify-content: center;
-   align-items: center;
+   align-items: flex-start;
 
 }
 
 .menu_izquierdo img{
-    width: 500px;
-    height: 300px;
-   
-
+    
+    width: 600px;
+    height: 350px;
+    
 }
+
 .menu_derecho {
     width: 75%;
     display: flex;
@@ -42,55 +43,58 @@ menu {
 
 
 .menu_derecho a {
-    text-decoration: none;
+    text-decoration: underline;
     color: rgb(255, 255, 255);
-    font-size: 20px;
-    margin-left: 20px;
+    font-size: 25px;
+    margin-left: 30px;
+    
+}
+
+.menu_derecho a:hover{
+    transform: scale(1.05);
     
 }
 
 .main-header {
     width: 100%;
-    height: 650px;
-    background-color: #ff0000;
+    height: 500px;
+    background-image: url(https://www.mundodeportivocr.com/images/noticias/motores/AMA-Superbike-Final-2025.png#joomlaImage:/local-images/noticias/motores/AMA-Superbike-Final-2025.png?width=800&height=600);
+    background-repeat: auto;
+    background-size: auto;
     flex-direction: row;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 20px 0 20px 0;
+
 }
 
-.texto-principal {
-    width: 100%;
-    height: 600px;
-    font-size: 40px;
-    color: #ffffff;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    
-}  
+
 
 .card-list{
     width: 100%;
     height:1500px;
-    background-color: #ff0000;
+    background-color: #cb0000;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-   
 }
 
 .card-item {
     width: 27%;
     height: 650px;
+    background-color: #ff8c00;
     border: #000000 solid 2px;
     border-radius: 5px;
     overflow: hidden;
+    
 }
 
 .card-item img {
     width: 100%;
-    height: 350px;
+    height: 320px;
 }
 
 .card-info {
@@ -103,18 +107,21 @@ menu {
 }
 
 .card-title {
-font-size: 25px;
-font-weight: bold;
-text-align: center;
-padding: 10px;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: left;
+    padding: 10px;
+    background-color: #ff0000a3;
 
 }
 
 .card-desc {
-font-size: 18px;
-text-align: left;
-padding: 10px;
+    font-size: 20px;
+    text-align: left;
+    padding: 12px;
+    color: #000000;
 }
+
 
 .boton-cta {
     width: 90%;
@@ -128,28 +135,61 @@ padding: 10px;
 }
 
 .card-cta {
-text-decoration: none;
-width: 100px;
-height: auto;
-background-color: rgb(255, 255, 255);
-padding: 10px;
-display: flex;
-flex-direction: row;
-align-items: center;
-justify-content: center;
-border: 1px solid rgb(0, 0, 0);
-border-radius: 5px;
+    text-decoration: none;
+    width: 100px;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.581);
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
 }
 
 .card-cta:hover {
     transform: scale(1.02);
-    background-color: rgb(0, 0, 0);
+    background-color: rgba(255, 0, 0, 0.695);
 }
+
+
+.main-accordion-container {
+    width: 98%;
+    height: 350px;
+    background-image: url(https://media.istockphoto.com/id/528312749/vector/abstract-background.jpg?s=612x612&w=0&k=20&c=OdPZdWR-eTEYvLf5WRRNZkLbDwqEDb3sNEkAZyu14pE=);
+    background-repeat: auto;
+    background-size: round;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    padding: 20px;
+    color: #ffffff;
+   
+}
+
+.accordion-title {
+    font-size: 27px;
+    font-weight: bold; 
+    padding: 5px;
+    color: #0011ff;
+}
+
+.accordion-desc {
+    font-size: 21px;
+    font-weight: bold;
+    padding: 5px;
+}
+
 
 @media (max-width: 768px) {
 
     menu {
-        background-color: transparent;
+        background-color: rgb(147, 0, 0);
         height: 200px;
         border:#000000 solid 5px;
         border-radius: 20px; 
@@ -197,26 +237,61 @@ border-radius: 5px;
 
 .menu_derecho_open {
     padding: 0;
-    margin:0;
+    margin: auto;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
     width: 40%;
     height: auto;
-    background-color: #000000;
-    border: solid #ff0000;
-    border-radius: 10px;
+    background-color: #ff4d00;
+    border: #000000 solid 3px;
+    border-radius: 5px;
     
     }
 
     .menu_derecho_open a {
-        padding: 0; 
+        padding: 8px; 
         margin-right: 0;
         font-size: 18px;
+        color: #000000;
+        font-weight: bold;
     }   
 
+  
 
+    .card-list{
+    width: 100%;
+    height:auto;
+    padding: 30px 0 30px 0;
+   
+    }
 
+    .card-item{
+    width: 80%;
+    height: 645px;
+    margin-bottom: 10px;
+    }
+
+    .card-info {
+    height: 250px;
+
+    }
+
+    .card-title{
+        font-size: 25px;
+    }
+
+    .card-desc {
+        font-size: 21px;
+    }
+
+    .botom-cta{
+        width: auto;
+        margin-right: 20px;
+        margin-top: auto;
+    }
+
+    
 
 }
