@@ -7,14 +7,23 @@ menu {
    display: flex;
    flex-direction: row;
    height: 240px;
-   background-color: #02008e;
+   background-color: #2c29c3;
+   background-image: url(https://thf.bing.com/th/id/R.99be1dd0473dd4f8f1ce5a325fce5529?rik=%2fyK5d3j%2ffArYzw&pid=ImgRaw&r=0);
+   background-position: top;
+   background-size: 2100px;
+   
+   
 
+  
 }
 
 
 
 .menu_izquierdo {
    background-color: #e10000;
+   background-image: url(https://thf.bing.com/th/id/R.99be1dd0473dd4f8f1ce5a325fce5529?rik=%2fyK5d3j%2ffArYzw&pid=ImgRaw&r=0);
+   background-position: top;
+   background-size: 2100px;
    width: 35%;
    display: flex; 
    flex-direction: row;
@@ -84,7 +93,7 @@ menu {
 
 .card-item {
     width: 27%;
-    height: 650px;
+    height: 680px;
     background-color: #ff8c00;
     border: #000000 solid 2px;
     border-radius: 5px;
@@ -94,7 +103,7 @@ menu {
 
 .card-item img {
     width: 100%;
-    height: 320px;
+    height: 350px;
 }
 
 .card-info {
@@ -159,9 +168,9 @@ menu {
 .main-accordion-container {
     width: 98%;
     height: 350px;
-    background-image: url(https://media.istockphoto.com/id/528312749/vector/abstract-background.jpg?s=612x612&w=0&k=20&c=OdPZdWR-eTEYvLf5WRRNZkLbDwqEDb3sNEkAZyu14pE=);
-    background-repeat: auto;
-    background-size: round;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/627/510/non_2x/light-blue-red-background-in-polygonal-style-new-abstract-illustration-with-rectangular-shapes-design-for-your-business-promotion-vector.jpg);
+    background-repeat: repeat;
+    background-size: 2200px;
     background-position: center;
     display: flex;
     flex-direction: column;
@@ -176,7 +185,7 @@ menu {
     font-size: 27px;
     font-weight: bold; 
     padding: 5px;
-    color: #0011ff;
+    color: #000000;
 }
 
 .accordion-desc {
@@ -226,7 +235,7 @@ menu {
 }
 
 .menu_container .hamburger_icon span {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
     height: 4px;
     width: 100%;
     display: block; 
@@ -244,8 +253,8 @@ menu {
     align-items: center;
     width: 40%;
     height: auto;
-    background-color: #ff4d00;
-    border: #000000 solid 3px;
+    background-color: #bf00c2;
+    border: #ffffff solid 3px;
     border-radius: 5px;
     
     }
@@ -254,7 +263,7 @@ menu {
         padding: 8px; 
         margin-right: 0;
         font-size: 18px;
-        color: #000000;
+        color: #ffffff;
         font-weight: bold;
     }   
 
@@ -268,10 +277,15 @@ menu {
     }
 
     .card-item{
-    width: 80%;
-    height: 645px;
+    width: 90%;
+    height: 800px;
     margin-bottom: 10px;
     }
+
+    .card-item img {
+    width: 100%;
+    height: auto;
+}
 
     .card-info {
     height: 250px;
@@ -292,6 +306,17 @@ menu {
         margin-top: auto;
     }
 
-    
+    .accordion-title {
+    font-size: 15px;
+    font-weight: bold; 
+    padding: 2px;
+    color: #000000;
+}
+
+.accordion-desc {
+    font-size: 13px;
+    font-weight: bold;
+    padding: 2px;
+}
 
 }
