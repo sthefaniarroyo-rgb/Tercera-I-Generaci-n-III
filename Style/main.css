@@ -7,7 +7,6 @@ menu {
    display: flex;
    flex-direction: row;
    height: 240px;
-   background-color: #2c29c3;
    background-image: url(https://thf.bing.com/th/id/R.99be1dd0473dd4f8f1ce5a325fce5529?rik=%2fyK5d3j%2ffArYzw&pid=ImgRaw&r=0);
    background-position: top;
    background-size: 2100px;
@@ -20,7 +19,6 @@ menu {
 
 
 .menu_izquierdo {
-   background-color: #e10000;
    background-image: url(https://thf.bing.com/th/id/R.99be1dd0473dd4f8f1ce5a325fce5529?rik=%2fyK5d3j%2ffArYzw&pid=ImgRaw&r=0);
    background-position: top;
    background-size: 2100px;
@@ -84,6 +82,8 @@ menu {
     width: 100%;
     height:1500px;
     background-color: #cb0000;
+    background-image: url(https://i.pinimg.com/originals/a0/9b/b7/a09bb76be7dfeaa4b45f5e48b4bd87c4.jpg);
+    background-size: 3000px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -95,6 +95,8 @@ menu {
     width: 27%;
     height: 680px;
     background-color: #ff8c00;
+    background-image: url(https://i.pinimg.com/736x/0b/2a/22/0b2a22c66d6c20d5521ee425747aef14.jpg);
+    background-position: top;
     border: #000000 solid 2px;
     border-radius: 5px;
     overflow: hidden;
@@ -128,7 +130,8 @@ menu {
     font-size: 20px;
     text-align: left;
     padding: 12px;
-    color: #000000;
+    color: #fbfbfb;
+    font-weight: bold;
 }
 
 
@@ -153,7 +156,7 @@ menu {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    border: 2px solid rgb(0, 0, 0);
+    border: 2px solid rgb(254, 254, 254);
     border-radius: 5px;
     color: rgb(255, 255, 255);
     font-weight: bold;
@@ -168,7 +171,7 @@ menu {
 .main-accordion-container {
     width: 98%;
     height: 350px;
-    background-image: url(https://static.vecteezy.com/system/resources/previews/002/627/510/non_2x/light-blue-red-background-in-polygonal-style-new-abstract-illustration-with-rectangular-shapes-design-for-your-business-promotion-vector.jpg);
+   background-image: url(https://i.pinimg.com/originals/a0/9b/b7/a09bb76be7dfeaa4b45f5e48b4bd87c4.jpg);
     background-repeat: repeat;
     background-size: 2200px;
     background-position: center;
@@ -185,7 +188,7 @@ menu {
     font-size: 27px;
     font-weight: bold; 
     padding: 5px;
-    color: #000000;
+    color: #ffea03;
 }
 
 .accordion-desc {
@@ -194,6 +197,63 @@ menu {
     padding: 5px;
 }
 
+.main-contact {
+    width: 99%;
+    height: auto;
+    background-color: #e10000;
+    background-image: url(https://i.pinimg.com/originals/a0/9b/b7/a09bb76be7dfeaa4b45f5e48b4bd87c4.jpg);
+    background-position: center;
+    background-size: 2400px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+}
+
+
+.main-inscription {
+    width: 99%;
+    height: auto;
+    background-image: url(https://i.pinimg.com/originals/a0/9b/b7/a09bb76be7dfeaa4b45f5e48b4bd87c4.jpg);
+    background-position: center;
+    background-size: 3800px;
+    background-repeat: no-repeat;
+    display: row;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+}
+
+
+
+.membresia {
+    width: 99%;
+    height: auto;
+    background-image: url(https://i.pinimg.com/originals/a0/9b/b7/a09bb76be7dfeaa4b45f5e48b4bd87c4.jpg);
+    background-position: center;
+    background-size: 3000px;
+    background-repeat: no-repeat;
+    display: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.contenedor-galeria {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    
+}
 
 @media (max-width: 768px) {
 
@@ -310,7 +370,7 @@ menu {
     font-size: 15px;
     font-weight: bold; 
     padding: 2px;
-    color: #000000;
+    color: #fff700;
 }
 
 .accordion-desc {
@@ -318,5 +378,7 @@ menu {
     font-weight: bold;
     padding: 2px;
 }
+
+
 
 }

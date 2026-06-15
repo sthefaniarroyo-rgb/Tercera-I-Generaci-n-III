@@ -21,8 +21,6 @@
                <a href="./inscripciones.php">Inscripciones</a>
                <a href="./membresia.php">Membresía</a>
                <a href="./fotos.php">Fotos</a>
-               <a href="./Asesoramiento.php">Asesoramiento</a>
-               <a href="./llantas.php">Llantas</a>
             </div>
 
             <div class="menu_container">   
